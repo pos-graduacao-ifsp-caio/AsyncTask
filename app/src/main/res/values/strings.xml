@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskWS</string>
+    <string name="buscar_informacoes">Buscar informações</string>
+</resources>
